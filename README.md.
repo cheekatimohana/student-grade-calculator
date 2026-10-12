@@ -1,0 +1,45 @@
+# Student Grade Calculator 📝
+
+A beginner-friendly Python project that calculates a student's total marks, percentage, and grade across five subjects.
+
+## Features
+
+- Accepts the student's name.
+- Takes marks for five subjects.
+- Calculates total marks and percentage.
+- Assigns a grade based on the percentage.
+- Validates marks between 0 and 100.
+- Handles invalid numeric input.
+
+## Technologies Used
+
+- Python 3
+- Functions
+- Lists and loops
+- Conditional statements
+- Exception handling
+
+## How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+```bash
+python student_grade_calculator.py
+```
+
+## Grade Criteria
+
+| Percentage | Grade |
+|---|---|
+| 90–100 | A |
+| 80–89.99 | B |
+| 70–79.99 | C |
+| 60–69.99 | D |
+| Below 60 | F |
+
+## Learning Outcomes
+
+This project demonstrates basic Python programming, user input, calculations, loops, functions, and input validation.
